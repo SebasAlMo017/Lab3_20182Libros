@@ -1,6 +1,6 @@
-*//Sebastian Alvarado y Nelxon Villareal
+//Sebastian Alvarado y Nelxon Villareal
 
-*//Lab3_20182Libros
+//Lab3_20182Libros
 
 #include <iostream>
 #include <string>
